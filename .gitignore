@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+
+# Environment
+.env
+
+# Anaconda
+env/
+venv/
+ischool_erp/
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Migrations (optional)
+*/migrations/*
+!*/migrations/__init__.py
